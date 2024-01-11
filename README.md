@@ -1,5 +1,5 @@
-<img src="background .jpg" alt="background image">
-<h1 align="center">Priyanshi Rai</h1>
+<img align="center" src="background .jpg" alt="background image">
+<h1 >Priyanshi Rai</h1>
 <h3 align="center">Full stack and MLOps Developer</h3>
 
 - 🔭 I’m currently working on [Smart Ladle Tracking System](https://github.com/Team-Cyphers/real-time-ladle-tracking-system)
