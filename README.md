@@ -1,3 +1,7 @@
+![logo](https://github.com/priii-25/priii-25/blob/main/background%20.jpg)
+<h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
+<h3 align="center">A passionate Software Engineer from India</h3>
+
 <h1 >Priyanshi Rai</h1>
 <h3 align="center">Full stack and MLOps Developer</h3>
 
