@@ -1,4 +1,4 @@
-<img src="bg.jpg" alt="background image">
+<img src="background .jpg" alt="background image">
 <h1 align="center">Priyanshi Rai</h1>
 <h3 align="center">Full stack and MLOps Developer</h3>
 
