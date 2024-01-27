@@ -1,17 +1,17 @@
-<h1 align="center">Priyanshi Rai</h1>
+<h1 align="center" style="color: red;">Priyanshi Rai</h1>
 <h3 align="center">Full stack and MLOps Developer</h3>
 
-- 🔭 I’m currently working on [Smart Ladle Tracking System](https://github.com/Team-Cyphers/real-time-ladle-tracking-system)
+- 👨‍💻 I’m currently working on [Smart Ladle Tracking System](https://github.com/Team-Cyphers/real-time-ladle-tracking-system)
 
-- 🌱 I’m currently learning **Deep Learning**
+- 👨‍💻 I’m currently learning **Deep Learning**
 
-- 👨‍💻 All of my projects are available at [projects link]([https://github.com/priii-25](https://github.com/priii-25?tab=repositories))
+- 👨‍💻 All of my projects are available at [projects link]([https://github.com/priii-25](https://github.com/priii-25?tab=repositories])
 
-- 📝 I regularly write articles on [blog link](https://medium.com/@priyanshi6506)
+- 👨‍💻 I regularly write articles on [blog link](https://medium.com/@priyanshi6506)
 
-- 💬 Ask me about **MERN Stack and Machine Learning**
+- 👨‍💻 Ask me about **MERN Stack and Machine Learning**
 
-- 📫 How to reach me **priyanshiii65@gmail.com**
+- 👨‍💻 How to reach me **priyanshiii65@gmail.com**
 
 <!--<h3 align="left">Connect with me:</h3>-->
 <!--<p align="left">-->
