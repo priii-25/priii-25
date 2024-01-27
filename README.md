@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 👨‍💻 All of my projects are available at [projects link](https://github.com/priii-25)
+- 👨‍💻 All of my projects are available at [projects link]([https://github.com/priii-25](https://github.com/priii-25?tab=repositories))
 
 - 📝 I regularly write articles on [blog link](https://medium.com/@priyanshi6506)
 
