@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m currently learning **Deep Learning**
 
-- 👨‍💻 I regularly write articles on [blog link](https://medium.com/@priyanshi6506)
+- 👨‍💻 I write articles on [blog link](https://medium.com/@priyanshi6506)
 
 - 👨‍💻 **Full Stack Developemnt and Machine Learning** Enthusiast
 
