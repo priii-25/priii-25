@@ -1,8 +1,6 @@
 <h1 align="center" style="color: red;">Priyanshi Rai</h1>
 <h3 align="center">Full stack and MLOps Developer</h3>
 
-- 👨‍💻 I’m currently working on [Smart Ladle Tracking System](https://github.com/Team-Cyphers/real-time-ladle-tracking-system)
-
 - 👨‍💻 I’m currently learning **Deep Learning**
 
 - 👨‍💻 I write articles on [blog link](https://medium.com/@priyanshi6506)
