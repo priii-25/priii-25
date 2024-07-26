@@ -3,8 +3,6 @@
 
 - 👨‍💻 I’m currently learning **Deep Learning**
 
-- 👨‍💻 I write articles on [blog link](https://medium.com/@priyanshi6506)
-
 - 👨‍💻 **Full Stack Developemnt and Machine Learning** Enthusiast
 
 - 👨‍💻 How to reach me **priyanshiii65@gmail.com**
