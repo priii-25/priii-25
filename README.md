@@ -1,7 +1,7 @@
-<h1 align="center">Priyanshi Rai</h1>
+<h1 align="center">✨Priyanshi Rai✨</h1>
 <h3 align="center"> Backend & Systems | Applied AI </h3>
 
-I enjoy building **scalable backend systems**, understanding **how things work under the hood**, and applying AI to real-world problems.
+I build backend systems and applied AI that are meant to **ship**, **scale**, and **survive production**.
 
 > _“Stay curious. Stay kind. Build wild things.”_
 
