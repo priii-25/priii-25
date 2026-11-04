@@ -1,10 +1,6 @@
 <div align="center">
 
-<h2><code>priyanshi@github:~$ whoami</code></h2>
-
-<strong>Priyanshi</strong> <sub>// Rubber Duck Talker</sub>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FF9C&center=true&vCenter=true&width=700&lines=Googling+the+same+error+since+day+one.;Yes%2C+I+can+exit+Vim.+Sometimes." alt="Googling the same error since day one. Yes, I can exit Vim. Sometimes." />
+<p><strong>Priyanshi</strong><br><code>// Rubber Duck Talker</code></p>
 
 </div>
 
