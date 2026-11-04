@@ -1,27 +1,21 @@
-<div align="center">
-
-`$ whoami`
-
-**Priyanshi** <code>// Rubber Duck Talker</code>
-
-</div>
-
----
-
-## `$ neofetch`
-
 ```text
-        .-"""-.                priyanshi@github
-       / .===. \               ----------------
-       \/ 6 6 \/               OS:         Linux (when it behaves) / macOS (when it doesn't)
-       ( \___/ )               Shell:      zsh, with way too many aliases
-    ___ooo__V__ooo___          Editor:     VS Code / Neovim (I can exit it, relax)
-   /                 \         Languages:  Golang, Python, JavaScript, C++
-  |    ┌─────────┐    |        Theme:      Dark. Light mode is a cry for help.
-  |    │ >_ code │    |        Packages:   too many (node_modules is a black hole)
-  |    └─────────┘    |        Fuel:       Coffee ☕ (non-negotiable)
-   \_________________/         RAM:        mostly tabs I might need someday
-       |_|     |_|             Status:     fixing yesterday's "quick fix"
+$ whoami
+Priyanshi // Rubber Duck Talker
+
+$ neofetch
+        /)   (\                priyanshi@github
+       //     \\               ----------------
+      ||       ||              OS:         Linux (when it behaves) / macOS (when it doesn't)
+      ||       ||              Shell:      zsh, with way too many aliases
+       \\     //               Editor:     VS Code / Neovim (I can exit it, relax)
+   .---------------.           Languages:  Golang, Python, JavaScript, C++
+   | .---.   .---. |           Theme:      Dark. Light mode is a cry for help.
+   | | o |---| o | |           Packages:   too many (node_modules is a black hole)
+   | '---'   '---' |           Fuel:       Coffee ☕ (non-negotiable)
+   |       ^       |           RAM:        mostly tabs I might need someday
+   |     \\___/     |          Status:     fixing yesterday's "quick fix"
+   `---------------'           
+     (__)     (__)             
 ```
 
 ---
