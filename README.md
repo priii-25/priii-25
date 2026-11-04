@@ -6,12 +6,6 @@
 
 </div>
 
-<h3 align="center">Backend &amp; Systems | Applied AI</h3>
-
-<p align="center">I build backend systems and applied AI that are meant to <strong>ship</strong>, <strong>scale</strong>, and <strong>survive production</strong>.</p>
-
-<blockquote><em>“Stay curious. Stay kind. Build wild things.”</em></blockquote>
-
 ---
 
 ## `$ neofetch`
@@ -52,8 +46,7 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Say_Hi-00ff9c?style=for-the-badge&logo=gmail&logoColor=black)](mailto:priyanshiii65@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshi-rai/)
+[priyanshi.rai@outlook.com](mailto:priyanshi.rai@outlook.com)
 
 <br>
 
