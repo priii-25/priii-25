@@ -16,7 +16,7 @@
        \/ 6 6 \/               OS:         Linux (when it behaves) / Windows (when it doesn't)
        ( \___/ )               Shell:      zsh, with way too many aliases
     ___ooo__V__ooo___          Editor:     VS Code / Neovim (I can exit it, relax)
-   /                 \         Languages:  Python, JavaScript, C++
+   /                 \         Languages:  Golang, Python, JavaScript, C++
   |    ┌─────────┐    |        Theme:      Dark. Light mode is a cry for help.
   |    │ >_ code │    |        Packages:   too many (node_modules is a black hole)
   |    └─────────┘    |        Fuel:       Coffee ☕ (non-negotiable)
