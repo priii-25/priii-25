@@ -1,6 +1,8 @@
 <div align="center">
 
-<p><strong>Priyanshi</strong><br><code>// Rubber Duck Talker</code></p>
+`$ whoami`
+
+**Priyanshi** <code>// Rubber Duck Talker</code>
 
 </div>
 
@@ -11,7 +13,7 @@
 ```text
         .-"""-.                priyanshi@github
        / .===. \               ----------------
-       \/ 6 6 \/               OS:         Linux (when it behaves) / Windows (when it doesn't)
+       \/ 6 6 \/               OS:         Linux (when it behaves) / macOS (when it doesn't)
        ( \___/ )               Shell:      zsh, with way too many aliases
     ___ooo__V__ooo___          Editor:     VS Code / Neovim (I can exit it, relax)
    /                 \         Languages:  Golang, Python, JavaScript, C++
@@ -44,7 +46,7 @@
 
 <div align="center">
 
-[priyanshi.rai@outlook.com](mailto:priyanshi.rai@outlook.com)
+[echo "hello" > inbox](mailto:priyanshi.rai@outlook.com)
 
 
 </div>
