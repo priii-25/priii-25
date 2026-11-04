@@ -1,8 +1,12 @@
-```text
-$ whoami
+## `$ whoami`
+
 Priyanshi // Rubber Duck Talker
 
-$ neofetch
+---
+
+## `$ neofetch`
+
+```text
         /)   (\                priyanshi@github
        //     \\               ----------------
       ||       ||              OS:         Linux (when it behaves) / macOS (when it doesn't)
