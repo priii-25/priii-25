@@ -20,8 +20,8 @@
   |    ┌─────────┐    |        Theme:      Dark. Light mode is a cry for help.
   |    │ >_ code │    |        Packages:   too many (node_modules is a black hole)
   |    └─────────┘    |        Fuel:       Coffee ☕ (non-negotiable)
-   \_________________/         RAM:        90% Chrome tabs, 10% hope
-       |_|     |_|             Status:     "just one more commit"
+   \_________________/         RAM:        mostly tabs I might need someday
+       |_|     |_|             Status:     fixing yesterday's "quick fix"
 ```
 
 ---
