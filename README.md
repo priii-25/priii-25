@@ -1,6 +1,8 @@
-## `$ whoami`
+<div align="center">
 
-Priyanshi // Rubber Duck Talker
+<img src="header.svg" alt="Priyanshi // Rubber Duck Talker" width="100%" />
+
+</div>
 
 ---
 
