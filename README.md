@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:064e3b&height=180&section=header&text=Priyanshi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=%2F%2F%20Rubber%20Duck%20Talker&descSize=16&descAlignY=66" alt="Priyanshi — Rubber Duck Talker" />
+<h2><code>priyanshi@github:~$ whoami</code></h2>
+
+<strong>Priyanshi</strong> <sub>// Rubber Duck Talker</sub>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FF9C&center=true&vCenter=true&width=700&lines=Googling+the+same+error+since+day+one.;Yes%2C+I+can+exit+Vim.+Sometimes." alt="Googling the same error since day one. Yes, I can exit Vim. Sometimes." />
 
@@ -48,8 +50,5 @@
 
 [priyanshi.rai@outlook.com](mailto:priyanshi.rai@outlook.com)
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,100:0d1117&height=100&section=footer" alt="Footer wave" />
 
 </div>
